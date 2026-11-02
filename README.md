@@ -42,6 +42,7 @@ Full step-by-step guides (registration → first request → troubleshooting): [
 
 - **Public pricing** — every model's base rate and what you actually pay, plus a login-free JSON endpoint (`/api/pricing`) you can script against
 - **Per-model pricing pages** — e.g. [claude-opus-5-5](https://teapotrouter.com/en/pricing/claude-opus-5-5)
+- **Free cost calculator** — [estimate your monthly spend and the subscription break-even](https://teapotrouter.com/en/claude-code-cost-calculator), no login, live rates from our public pricing API
 - **From the blog**: [Where does a Claude Code bill actually go?](https://teapotrouter.com/en/blog/where-does-a-claude-code-bill-go) — the three numbers on every line and why message 15 costs more than message 1
 - **A Claude Code pricing guide** — subscription vs pay-as-you-go vs gateway, with the actual cost math: [docs](https://teapotrouter.com/en/docs/claude-code-pricing)
 - **Troubleshooting guide** — connection, 401, and quota errors matched to fixes: [docs](https://teapotrouter.com/en/docs/claude-code-troubleshooting)
