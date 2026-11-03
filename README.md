@@ -6,7 +6,7 @@
 
 A hosted gateway for Claude Code, Codex CLI, and OpenAI-SDK tools: point two environment variables at it and every AI coding tool routes through one endpoint, one balance, one per-request cost ledger.
 
-[Get started](https://teapotrouter.com/en/register) · [Pricing (public, machine-readable)](https://teapotrouter.com/api/pricing) · [Docs](https://teapotrouter.com/en/docs)
+[Get started](https://teapotrouter.com/en/register) · [Pricing (public, machine-readable)](https://teapotrouter.com/api/pricing) · [Docs](https://teapotrouter.com/en/docs) · [Status](https://teapotrouter.com/en/status)
 
 </div>
 
