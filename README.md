@@ -1,8 +1,12 @@
 <div align="center">
 
+<img src="assets/teapot-mark.svg" width="88" alt="Teapot Router — a clay seal with a forest-green teapot" />
+
 # LLM API Gateway for Coding Agents
 
 **One key. Both protocols. Pay as you go — and your credit never expires.**
+
+<sub>by Teapot Router — stability-first AI gateway for Claude Code and GPT</sub>
 
 A hosted gateway for Claude Code, Codex CLI, and OpenAI-SDK tools: point two environment variables at it and every AI coding tool routes through one endpoint, one balance, one per-request cost ledger.
 
